@@ -1,0 +1,2 @@
+ios/dist/lib/libViroReact.a filter=lfs diff=lfs merge=lfs -text
+ios/dist/armv7_arm64/libViroReact.a filter=lfs diff=lfs merge=lfs -text

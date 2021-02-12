@@ -1,12 +1,12 @@
 {
-  "name": "@viro-community/react-viro",
+  "name": "@pacprod/react-viro",
   "main": "index.js",
-  "version": "2.19.0",
+  "version": "2.20.0",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "repository": "git@github.com:virocommunity/viro.git",
+  "repository": "git@github.com:PacProd/viro.git",
   "description": "Fork of Viro complaint with new Apple conditions. Removes UIWebView",
   "scripts": {
     "start": "echo 'I dont think you meant to run npm start here.'",
@@ -17,7 +17,7 @@
   },
   "peerDependencies": {
     "react": "^16.13.1",
-    "react-native": "^0.63.2"
+    "react-native": "^0.63.4"
   },
   "files": [
     "components",
