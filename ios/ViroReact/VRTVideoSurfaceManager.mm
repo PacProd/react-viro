@@ -27,7 +27,7 @@
 
 #import <React/RCTUIManager.h>
 #import "VRTVideoSurfaceManager.h"
-//#import "VRTVideoSurface.h"
+#import "VRTVideoSurface.h"
 
 @implementation VRTVideoSurfaceManager
 RCT_EXPORT_MODULE()
