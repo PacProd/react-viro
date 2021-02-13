@@ -6,7 +6,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "repository": "git@github.com:PacProd/viro.git",
+  "repository": "git@github.com:PacProd/react-viro.git",
   "description": "Fork of Viro complaint with new Apple conditions. Removes UIWebView",
   "scripts": {
     "start": "echo 'I dont think you meant to run npm start here.'",
@@ -33,5 +33,9 @@
   "dependencies": {
     "create-react-class": "^15.7.0",
     "prop-types": "^15.5.10"
+  },
+  "devDependencies": {
+    "react": "16.13.1",
+    "react-native": "0.63.4"
   }
 }
