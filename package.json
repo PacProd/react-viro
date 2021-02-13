@@ -1,7 +1,7 @@
 {
   "name": "@pacprod/react-viro",
   "main": "index.js",
-  "version": "2.20.0",
+  "version": "2.20.1",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
